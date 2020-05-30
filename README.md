@@ -24,9 +24,9 @@ The plots are determined using the data type of the data to be plotted.
 * Two Quantitative data
   - Scatter plot
   - Heat map
-*Qualitative vs Quantitative data
+* Qualitative vs Quantitative data
   - Violin plot
   - Box Plot
   - Faceted Plot
-*Two Qualitative data
+* Two Qualitative data
   - Clustered Bar chart
