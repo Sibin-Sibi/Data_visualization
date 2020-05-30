@@ -17,3 +17,16 @@ The plots are determined using the data type of the data to be plotted.
   - Donut Chart
 * Quantitative data
   - Histogram Chart
+  
+### Bivariate exploration
+Bivariate exploration means generation of visuals based on a two variable.
+The plots are determined using the data type of the data to be plotted.
+* Two Quantitative data
+  - Scatter plot
+  - Heat map
+*Qualitative vs Quantitative data
+  - Violin plot
+  - Box Plot
+  - Faceted Plot
+*Two Qualitative data
+  - Clustered Bar chart
