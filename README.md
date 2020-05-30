@@ -9,9 +9,9 @@ Data set to be used:
 
 ### Univariate Exploration: 
 Univariate exploration means generation of visuals based on a single variable.    
-  Qualitative data
-  - Bar Chart
-  - Pie Chart
-  - Donut Chart         
-  Quantitative data
-  - Histogram Chart
+Qualitative data
+- Bar Chart
+- Pie Chart
+- Donut Chart         
+Quantitative data
+- Histogram Chart
