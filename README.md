@@ -3,10 +3,11 @@ Using Matplotlib and Seaborn library to perform data visualization on a dataset.
 
 Univariate exploration means generation of visuals based on a single variable.
 The plots are determined using the data type of the data to be plotted.
-Qualitative data
 
-- Bar Chart
-- Pie Chart
-- Donut Chart
-Quantitative data
-- Histogram Chart
+* Qualitative data
+
+  - Bar Chart
+  - Pie Chart
+  - Donut Chart
+* Quantitative data
+  - Histogram Chart
