@@ -6,6 +6,7 @@ The plots are determined using the data type of the data to be plotted.
 Data set to be used:
 - Pokemon : This dataset comprise of attributes of creatures in the video game series Pokémon.
 - Fuel_econ : This data set describes various car attributes, such as fuel efficiency. The cars in this dataset represent about 3900 sedans tested by the EPA from 2013 to 2018.     
+
 Univariate Exploration:
 Univariate exploration means generation of visuals based on a single variable.
 Qualitative data
