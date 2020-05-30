@@ -31,3 +31,9 @@ The plots are determined using the data type of the data to be plotted.
   - Faceted Plot
 * Two Qualitative data
   - Clustered Bar chart
+ ### Multivariate exploration
+ Multivariate exploration means generation of visuals based on a three or more variables.
+    - Encoding via Size
+    - Encoding via Shape
+    - Encoding via Color
+Encoding via color is the most common practise while working with multivariate exploration
