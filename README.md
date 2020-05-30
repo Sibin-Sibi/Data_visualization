@@ -24,6 +24,7 @@ The plots are determined using the data type of the data to be plotted.
 * Two Quantitative data
   - Scatter plot
   - Heat map
+  - Line plot
 * Qualitative vs Quantitative data
   - Violin plot
   - Box Plot
